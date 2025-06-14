@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files
+*.csv
+#*.xlsx
+#*.xls
+*.json
+*.pkl
+*.h5
+*.feather
+*.parquet
+
+# Results
+results/*.csv
+results/*.xlsx
+results/*.pkl
+results/*.h5
+
+# Logs
+*.log
+logs/ 
+
+*.env
+.venv/
+secret
+improvement_ideas/
+.env.BAK
+.env.OLD
+base-implementation-guide.txt
+
+guides/*
