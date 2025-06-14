@@ -2,6 +2,8 @@
 
 This repository contains an implementation of the paper "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning" using the Qwen language model.
 
+Repository: [https://github.com/artaasd95/mcts-preference-learning](https://github.com/artaasd95/mcts-preference-learning)
+
 ## Setup
 
 1. Install dependencies:
@@ -64,6 +66,15 @@ If you use this implementation, please cite both the original paper and this rep
       archivePrefix={arXiv},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2405.00451}, 
+}
+
+@software{mcts_preference_learning,
+  author = {Arta Asd},
+  title = {MCTS Preference Learning Implementation},
+  year = {2024},
+  url = {https://github.com/artaasd95/mcts-preference-learning},
+  publisher = {GitHub},
+  journal = {GitHub repository},
 }
 ```
 

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Asd"
+    given-names: "Arta"
+title: "MCTS Preference Learning Implementation"
+version: "1.0.0"
+date-released: 2024-03-19
+url: "https://github.com/artaasd95/mcts-preference-learning"
+repository-code: "https://github.com/artaasd95/mcts-preference-learning"
+license: MIT
+keywords:
+  - "machine-learning"
+  - "monte-carlo-tree-search"
+  - "preference-learning"
+  - "language-models"
+  - "qwen" 
